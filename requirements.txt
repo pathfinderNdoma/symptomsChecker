@@ -1,6 +1,6 @@
-fastapi==
-pydantic==
-pandas==
+fastapi
+pydantic
+pandas
 numpy
 scikit-learn
 joblib
